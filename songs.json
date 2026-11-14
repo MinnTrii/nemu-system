@@ -2706,5 +2706,651 @@
       "The Creator",
       "Kali Uchis"
     ]
+  },
+  {
+    "id": "140",
+    "ten_tac_pham": "追逐水星",
+    "tac_gia_1": "辛辛君",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794637586/%E8%BF%BD%E9%80%90%E6%B0%B4%E6%98%9F_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b2739d4fb6930b492bbb720f8d28",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "",
+    "tac_gia": [
+      "辛辛君"
+    ]
+  },
+  {
+    "id": "141",
+    "ten_tac_pham": "时间慢一些吧 - Inst",
+    "tac_gia_1": "辛辛君",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794637597/%E6%97%B6%E9%97%B4%E6%85%A2%E4%B8%80%E4%BA%9B%E5%90%A7_-_Inst_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b273a624678046eb45f7adafd2cf",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "",
+    "tac_gia": [
+      "辛辛君"
+    ]
+  },
+  {
+    "id": "142",
+    "ten_tac_pham": "Roommates",
+    "tac_gia_1": "Malcolm Todd",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794638827/Roommates_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b2732c1f34ecc1929fb59908aad1",
+    "link_video_nen": "",
+    "link_lyric": "https://raw.githubusercontent.com/MinnTrii/nemulyric/refs/heads/main/Roommates%20-%20Malcolm%20Todd.txt",
+    "thoi_diem_diep_khuc": "53",
+    "Ngày PH": "",
+    "Lang": "",
+    "tac_gia": [
+      "Malcolm Todd"
+    ]
+  },
+  {
+    "id": "143",
+    "ten_tac_pham": "Earrings",
+    "tac_gia_1": "Malcolm Todd",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794639028/Earrings_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b2732c1f34ecc1929fb59908aad1",
+    "link_video_nen": "",
+    "link_lyric": "https://raw.githubusercontent.com/MinnTrii/nemulyric/refs/heads/main/Earrings%20-%20Malcolm%20Todd.txt",
+    "thoi_diem_diep_khuc": "18",
+    "Ngày PH": "",
+    "Lang": "",
+    "tac_gia": [
+      "Malcolm Todd"
+    ]
+  },
+  {
+    "id": "144",
+    "ten_tac_pham": "Falling",
+    "tac_gia_1": "JVKE",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794643137/this_is_what_falling_in_love_feels_like_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b27308228dd6fe64ab5e68162e37",
+    "link_video_nen": "",
+    "link_lyric": "https://github.com/MinnTrii/nemulyric/raw/refs/heads/main/this%20is%20what%20falling%20in%20love%20feels%20like%20-%20JVKE.txt",
+    "thoi_diem_diep_khuc": "14",
+    "Ngày PH": "",
+    "Lang": "",
+    "tac_gia": [
+      "JVKE"
+    ]
+  },
+  {
+    "id": "145",
+    "ten_tac_pham": "Autumn",
+    "tac_gia_1": "JVKE",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794643134/this_is_what_autumn_feels_like_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b273c1cde30db7c765496c8c0e0e",
+    "link_video_nen": "",
+    "link_lyric": "https://github.com/MinnTrii/nemulyric/raw/refs/heads/main/this%20is%20what%20autumn%20feels%20like%20-%20JVKE.txt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "",
+    "tac_gia": [
+      "JVKE"
+    ]
+  },
+  {
+    "id": "146",
+    "ten_tac_pham": "Her",
+    "tac_gia_1": "JVKE",
+    "tac_gia_2": "Annika Wells",
+    "tac_gia_3": "Kaden Hawke",
+    "tac_gia_4": "Thegodoffortune",
+    "the_loai": "",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794643094/her_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d00001e02709ae15aed0520630ceb666e",
+    "link_video_nen": "",
+    "link_lyric": "https://github.com/MinnTrii/nemulyric/raw/refs/heads/main/her%20-%20JVKE.txt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "",
+    "tac_gia": [
+      "JVKE",
+      "Annika Wells",
+      "Kaden Hawke",
+      "Thegodoffortune"
+    ]
+  },
+  {
+    "id": "147",
+    "ten_tac_pham": "BIRDS OF A FEATHER",
+    "tac_gia_1": "Billie Eilish",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794642429/BIRDS_OF_A_FEATHER_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+    "link_video_nen": "",
+    "link_lyric": "https://github.com/MinnTrii/nemulyric/raw/refs/heads/main/BIRDS%20OF%20A%20FEATHER%20-%20Billie%20Eilish.txt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "",
+    "tac_gia": [
+      "Billie Eilish"
+    ]
+  },
+  {
+    "id": "148",
+    "ten_tac_pham": "From The Start",
+    "tac_gia_1": "Laufey",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794642960/From_The_Start_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b27374c732f8aa0e0ccbb3d17d96",
+    "link_video_nen": "",
+    "link_lyric": "https://github.com/MinnTrii/nemulyric/raw/refs/heads/main/From%20The%20Start%20-%20Laufey.txt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "",
+    "tac_gia": [
+      "Laufey"
+    ]
+  },
+  {
+    "id": "149",
+    "ten_tac_pham": "Lover Girl",
+    "tac_gia_1": "Laufey",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794643113/Lover_Girl_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b273be1e41eda793059fb9129bff",
+    "link_video_nen": "",
+    "link_lyric": "https://github.com/MinnTrii/nemulyric/raw/refs/heads/main/Lover%20Girl%20-%20Laufey.txt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "",
+    "tac_gia": [
+      "Laufey"
+    ]
+  },
+  {
+    "id": "150",
+    "ten_tac_pham": "Tek It",
+    "tac_gia_1": "Cafuné",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794643130/Tek_It_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b273ecaf001a812bb1ecc6cc482d",
+    "link_video_nen": "",
+    "link_lyric": "https://github.com/MinnTrii/nemulyric/raw/refs/heads/main/Tek%20It%20-%20Cafune%CC%81.txt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "",
+    "tac_gia": [
+      "Cafuné"
+    ]
+  },
+  {
+    "id": "151",
+    "ten_tac_pham": "Honeypie",
+    "tac_gia_1": "JAWNY",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794643096/Honeypie_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b273bf076bd9b8ad8facbb19f473",
+    "link_video_nen": "",
+    "link_lyric": "https://github.com/MinnTrii/nemulyric/raw/refs/heads/main/Honeypie%20-%20JAWNY.txt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "",
+    "tac_gia": [
+      "JAWNY"
+    ]
+  },
+  {
+    "id": "152",
+    "ten_tac_pham": "NIGHT DANCER",
+    "tac_gia_1": "imase",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794643116/NIGHT_DANCER_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b273a2f31ae9881047f2d84ee262",
+    "link_video_nen": "",
+    "link_lyric": "https://github.com/MinnTrii/nemulyric/raw/refs/heads/main/NIGHT%20DANCER%20-%20imase.txt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "jp",
+    "tac_gia": [
+      "imase"
+    ]
+  },
+  {
+    "id": "153",
+    "ten_tac_pham": "恋する神様",
+    "tac_gia_1": "Penthouse",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "OST",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794642398/Dear_Cupid_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d00001e02cbaaffa07509736ff6c61e5e",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "jp",
+    "tac_gia": [
+      "Penthouse"
+    ]
+  },
+  {
+    "id": "154",
+    "ten_tac_pham": "flower",
+    "tac_gia_1": "yung kai",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794642456/flower_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b273e71df35ae3a8a963031fc518",
+    "link_video_nen": "",
+    "link_lyric": "https://github.com/MinnTrii/nemulyric/raw/refs/heads/main/flower%20-%20yung%20kai.txt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "",
+    "tac_gia": [
+      "yung kai"
+    ]
+  },
+  {
+    "id": "155",
+    "ten_tac_pham": "Glue Song",
+    "tac_gia_1": "beabadoobee",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794642973/Glue_Song_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b273e3862aeefcb2f0860ef017e4",
+    "link_video_nen": "",
+    "link_lyric": "https://github.com/MinnTrii/nemulyric/raw/refs/heads/main/Glue%20Song%20-%20beabadoobee.txt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "",
+    "tac_gia": [
+      "beabadoobee"
+    ]
+  },
+  {
+    "id": "156",
+    "ten_tac_pham": "H.S.K.T.",
+    "tac_gia_1": "LeeHi",
+    "tac_gia_2": "원슈타인",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "OST",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794642995/H.S.K.T._feat._Wonstein__spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69",
+    "link_video_nen": "",
+    "link_lyric": "https://github.com/MinnTrii/nemulyric/raw/refs/heads/main/H.S.K.T.%20(feat.%20Wonstein)%20-%20LEEHI,%20Wonstein.txt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "kr",
+    "tac_gia": [
+      "LeeHi",
+      "원슈타인"
+    ]
+  },
+  {
+    "id": "157",
+    "ten_tac_pham": "ONLY",
+    "tac_gia_1": "LeeHi",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "OST",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794643120/ONLY_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69",
+    "link_video_nen": "",
+    "link_lyric": "https://github.com/MinnTrii/nemulyric/raw/refs/heads/main/ONLY%20-%20LEEHI.txt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "kr",
+    "tac_gia": [
+      "LeeHi"
+    ]
+  },
+  {
+    "id": "158",
+    "ten_tac_pham": "책방오빠 문학소녀",
+    "tac_gia_1": "BIBI",
+    "tac_gia_2": "Scott",
+    "tac_gia_3": "Zelda",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794643127/Scott_and_Zelda_spotdown.org.mp3",
+    "link_anh": "https://i1.sndcdn.com/artworks-PIGxLDyrtsDhE1uW-PcSDSA-t500x500.png",
+    "link_video_nen": "",
+    "link_lyric": "https://github.com/MinnTrii/nemulyric/raw/refs/heads/main/Scott%20and%20Zelda%20-%20BIBI.txt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "kr",
+    "tac_gia": [
+      "BIBI",
+      "Scott",
+      "Zelda"
+    ]
+  },
+  {
+    "id": "159",
+    "ten_tac_pham": "Snowman",
+    "tac_gia_1": "Sia",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794643125/Snowman_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b2738c5d0e3697c5c9191cc8c1bf",
+    "link_video_nen": "",
+    "link_lyric": "https://github.com/MinnTrii/nemulyric/raw/refs/heads/main/Snowman%20-%20Sia.txt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "",
+    "tac_gia": [
+      "Sia"
+    ]
+  },
+  {
+    "id": "160",
+    "ten_tac_pham": "Die With A Smile",
+    "tac_gia_1": "Lady Gaga",
+    "tac_gia_2": "Bruno Mars",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794642941/Die_With_A_Smile_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b27382ea2e9e1858aa012c57cd45",
+    "link_video_nen": "",
+    "link_lyric": "https://github.com/MinnTrii/nemulyric/raw/refs/heads/main/Die%20With%20A%20Smile%20-%20Lady%20Gaga,%20Bruno%20Mars.txt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "",
+    "tac_gia": [
+      "Lady Gaga",
+      "Bruno Mars"
+    ]
+  },
+  {
+    "id": "161",
+    "ten_tac_pham": "Tìm em ft. Bảo Anh",
+    "tac_gia_1": "Hngle",
+    "tac_gia_2": "Bảo Anh",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794643143/Ti%CC%80m_Em_feat._Ba%CC%89o_Anh__spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b27316d614a859798e628354b232",
+    "link_video_nen": "",
+    "link_lyric": "https://github.com/MinnTrii/nemulyric/raw/refs/heads/main/Ti%CC%80m%20Em%20(feat.%20Ba%CC%89o%20Anh)%20-%20Hngle,%20Ba%CC%89o%20Anh.txt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Hngle",
+      "Bảo Anh"
+    ]
+  },
+  {
+    "id": "162",
+    "ten_tac_pham": "Gửi em, người bất tử",
+    "tac_gia_1": "Ân ngờ",
+    "tac_gia_2": "Mỹ Mỹ",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794642982/Gu%CC%9B%CC%89i_em_ngu%CC%9Bo%CC%9B%CC%80i_ba%CC%82%CC%81t_tu%CC%9B%CC%89_spotdown.org.mp3",
+    "link_anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgJG5DWWzaDbZRFloLyeTKxnocmy15bhe8D0VJwnWDWWr8JgBbTz5s3hId&s=10",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Ân ngờ",
+      "Mỹ Mỹ"
+    ]
+  },
+  {
+    "id": "163",
+    "ten_tac_pham": "ĐỢI",
+    "tac_gia_1": "52Hz",
+    "tac_gia_2": "RIO",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794643570/%C4%90O%CC%9B%CC%A3I_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b273cf699cd3af05f42f0052719a",
+    "link_video_nen": "",
+    "link_lyric": "https://github.com/MinnTrii/nemulyric/raw/refs/heads/main/%C4%90O%CC%9B%CC%A3I%20-%2052Hz,%20RIO.txt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "52Hz",
+      "RIO"
+    ]
+  },
+  {
+    "id": "164",
+    "ten_tac_pham": "Kịch Bản",
+    "tac_gia_1": "Táo",
+    "tac_gia_2": "Hoàng Yến Chibi Official",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "Vpop",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794643105/Ki%CC%A3ch_Ba%CC%89n_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b273eabf7aa00c06fd992cd13823",
+    "link_video_nen": "",
+    "link_lyric": "https://github.com/MinnTrii/nemulyric/raw/refs/heads/main/Ki%CC%A3ch%20Ba%CC%89n%20-%20Ta%CC%81o,%20Tu%CC%9B%CC%81%20Long,%20Hoa%CC%80ng%20Ye%CC%82%CC%81n%20Chibi.txt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "vi",
+    "tac_gia": [
+      "Táo",
+      "Hoàng Yến Chibi Official"
+    ]
+  },
+  {
+    "id": "165",
+    "ten_tac_pham": "Until I Found You",
+    "tac_gia_1": "Stephen Sanchez",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794643145/Until_I_Found_You_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b2733402431a45d608eaa355f959",
+    "link_video_nen": "",
+    "link_lyric": "https://github.com/MinnTrii/nemulyric/raw/refs/heads/main/Until%20I%20Found%20You%20-%20Stephen%20Sanchez.txt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "",
+    "tac_gia": [
+      "Stephen Sanchez"
+    ]
+  },
+  {
+    "id": "166",
+    "ten_tac_pham": "End of Beginning",
+    "tac_gia_1": "Djo",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794642500/End_of_Beginning_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b273987466cc3363ea26094ca3c4",
+    "link_video_nen": "",
+    "link_lyric": "https://github.com/MinnTrii/nemulyric/raw/refs/heads/main/End%20of%20Beginning%20-%20Djo.txt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "",
+    "tac_gia": [
+      "Djo"
+    ]
+  },
+  {
+    "id": "167",
+    "ten_tac_pham": "Die For You - VALORANT Champions 2021",
+    "tac_gia_1": "Riot Games Music",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794642446/Die_For_You_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b27308074b6de9b696b218c4b57a",
+    "link_video_nen": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794644079/Die_For_You_ft._Grabbitz_--_Official_Music_Video_--_VALORANT_Champions_2021.mp4",
+    "link_lyric": "https://github.com/MinnTrii/nemulyric/raw/refs/heads/main/Die%20For%20You%20-%20VALORANT,%20Grabbitz.txt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "",
+    "tac_gia": [
+      "Riot Games Music"
+    ]
+  },
+  {
+    "id": "168",
+    "ten_tac_pham": "Ticking Away ft. Grabbitz & bbno$",
+    "tac_gia_1": "Riot Games Music",
+    "tac_gia_2": "Grabbitz",
+    "tac_gia_3": "bbno$",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794643140/Ticking_Away_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b2732dec0133eb6e5dd2ea17ebbb",
+    "link_video_nen": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794644072/Ticking_Away_ft._Grabbitz_bbno_Official_Music_Video_--_VALORANT_Champions_2023_Anthem.mp4",
+    "link_lyric": "https://github.com/MinnTrii/nemulyric/raw/refs/heads/main/Ticking%20Away%20-%20VALORANT,%20Grabbitz,%20bbno$.txt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "",
+    "tac_gia": [
+      "Riot Games Music",
+      "Grabbitz",
+      "bbno$"
+    ]
+  },
+  {
+    "id": "169",
+    "ten_tac_pham": "If The Sun Burns Out Tonight ft. Grabbitz, Oli Sykes & Courtney LaPlant",
+    "tac_gia_1": "Riot Games Music",
+    "tac_gia_2": "Courtney LaPlant",
+    "tac_gia_3": "Grabbitz",
+    "tac_gia_4": "Oli Sykes",
+    "the_loai": "",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794643102/If_The_Sun_Burns_Out_Tonight_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b2736ac59ec778330ddd507ee0b0",
+    "link_video_nen": "",
+    "link_lyric": "https://github.com/MinnTrii/nemulyric/raw/refs/heads/main/If%20The%20Sun%20Burns%20Out%20Tonight%20-%20VALORANT,%20Grabbitz,%20Oli%20Sykes,%20Courtney%20LaPlante.txt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "",
+    "tac_gia": [
+      "Riot Games Music",
+      "Courtney LaPlant",
+      "Grabbitz",
+      "Oli Sykes"
+    ]
+  },
+  {
+    "id": "170",
+    "ten_tac_pham": "Know My Name ft. True Damage",
+    "tac_gia_1": "Riot Games Music",
+    "tac_gia_2": "T1 Faker",
+    "tac_gia_3": "LoL Esports",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794643109/Know_My_Name_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b273e64495145dfc04de9130d11e",
+    "link_video_nen": "",
+    "link_lyric": "",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "",
+    "tac_gia": [
+      "Riot Games Music",
+      "T1 Faker",
+      "LoL Esports"
+    ]
+  },
+  {
+    "id": "171",
+    "ten_tac_pham": "I Really Want to Stay At Your House",
+    "tac_gia_1": "Rosa Walton",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "OST",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794643099/I_Really_Want_to_Stay_at_Your_House_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b273760dca9422caf3556e9f69e6",
+    "link_video_nen": "",
+    "link_lyric": "https://github.com/MinnTrii/nemulyric/raw/refs/heads/main/I%20Really%20Want%20to%20Stay%20at%20Your%20House%20-%20Rosa%20Walton,%20Hallie%20Coggins.txt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "",
+    "tac_gia": [
+      "Rosa Walton"
+    ]
+  },
+  {
+    "id": "172",
+    "ten_tac_pham": "Sunflower",
+    "tac_gia_1": "Post Malone",
+    "tac_gia_2": "Swae Lee",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "OST",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794643122/Sunflower_-_Spider-Man__Into_the_Spider-Verse_spotdown.org.mp3",
+    "link_anh": "https://i.scdn.co/image/ab67616d0000b273e2e352d89826aef6dbd5ff8f",
+    "link_video_nen": "",
+    "link_lyric": "https://github.com/MinnTrii/nemulyric/raw/refs/heads/main/Sunflower%20-%20Spider-Man_%20Into%20the%20Spider-Verse%20-%20Post%20Malone,%20Swae%20Lee.txt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "",
+    "tac_gia": [
+      "Post Malone",
+      "Swae Lee"
+    ]
   }
 ]
