@@ -3352,5 +3352,24 @@
       "Post Malone",
       "Swae Lee"
     ]
+  },
+  {
+    "id": "173",
+    "ten_tac_pham": "Love.",
+    "tac_gia_1": "wave to earth",
+    "tac_gia_2": "",
+    "tac_gia_3": "",
+    "tac_gia_4": "",
+    "the_loai": "",
+    "link_nhac": "https://res.cloudinary.com/sgfqmpao/video/upload/v1794663092/love._spotdown.org.mp3",
+    "link_anh": "https://res.cloudinary.com/dl4f7drpl/image/upload/v1794663349/Ảnh_màn_hình_2026-11-14_lúc_20.34.22_kjigie.png",
+    "link_video_nen": "",
+    "link_lyric": "https://github.com/MinnTrii/nemulyric/raw/refs/heads/main/love.%20-%20wave%20to%20earth.txt",
+    "thoi_diem_diep_khuc": "",
+    "Ngày PH": "",
+    "Lang": "kr",
+    "tac_gia": [
+      "wave to earth"
+    ]
   }
 ]
